@@ -1,6 +1,8 @@
 body {
     text-align: center;
     color: rgb(40, 30, 49);
+    display: flex;
+    flex-direction: column;
     }
 
 h1{
@@ -11,8 +13,26 @@ p{
     text-align: left;
     margin-inline-start: 10px;
 }
+.header{
+    height: 100px;
+    background-color:slategrey;
+    
+    
+}
+.header__div{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    
+}
+.header__img{
+    height: 80px;
+}
 .container{
     border: 2px solid purple;
     border-radius: 25px;
     width: 80%;
+    margin:20px;
+    align-self: center;
+    
 }
