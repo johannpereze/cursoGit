@@ -1,7 +1,18 @@
 body {
     text-align: center;
-    color: blueviolet;
+    color: rgb(40, 30, 49);
+    }
+
+h1{
     font-family:'Courier New', Courier, monospace
 }
-/* 
-este comentario no se debe eliminar con el restore head */
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    margin-inline-start: 10px;
+}
+.container{
+    border: 2px solid purple;
+    border-radius: 25px;
+    width: 80%;
+}
