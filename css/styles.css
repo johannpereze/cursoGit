@@ -1,6 +1,6 @@
 body {
     margin: 0%;
-    background-color: #8F57FD;
+    background-color: #181818;
     font-family: 'Mulish', sans-serif;
 }
 
@@ -14,7 +14,7 @@ body {
 }
 
 .header {
-    background-color: #8F57FD;
+    background-color: #202020;
     height: 100px;
     width: 100%;
     display: flex;
@@ -155,7 +155,7 @@ body {
 }
 
 .footer {
-    background: #8f57fd;
+    background: #202020;
     height: 100px;
     width: 100%;
     display: flex;
